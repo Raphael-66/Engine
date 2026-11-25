@@ -1,0 +1,8 @@
+{
+  "name": "com.claude.unity-mcp",
+  "version": "1.0.0",
+  "displayName": "Claude Unity MCP Bridge",
+  "description": "Expõe o Editor Unity em http://127.0.0.1:8090 para o servidor MCP do Claude.",
+  "unity": "2021.3",
+  "author": { "name": "Claude Unity MCP" }
+}
